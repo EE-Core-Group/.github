@@ -2,7 +2,7 @@
 
 # EECG
 
-Core Group for Electronic Engineering
+**Core Group for Electronic Engineering**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=EE-Core-Group)](https://komarev.com/sources/github-profile-views-counter)
 
